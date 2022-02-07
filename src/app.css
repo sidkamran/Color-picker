@@ -1,0 +1,16 @@
+.color-block{
+  height:40px;
+  width: 40px;
+  border:3px solid black;
+  border-radius: 50%;
+}
+.color-container{
+  display:flex;
+  justify-content:space-evenly;
+}
+.target-div{
+  height:400px;
+  width:400px;
+  margin:40px;
+ 
+}
